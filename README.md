@@ -1,2 +1,0 @@
-# satu
-membuat sebuah web
